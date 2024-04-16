@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "rcpsp.mzn",
+        "data/rcpspData1.dzn",
+        "data/rcpspData2.dzn",
+        "data/rcpspData3.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "data/rcpspData1.dzn",
+        "data/rcpspData2.dzn",
+        "data/rcpspData3.dzn",
+        "rcpsp.mzn",
+        "solver_conf.mpc"
+    ],
+    "selectedSolverConfigFile": "solver_conf.mpc",
+    "version": 106
+}

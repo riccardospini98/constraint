@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiff_decomposition.mzn"
+    ],
+    "openTab": 1,
+    "projectFiles": [
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiff_decomposition.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

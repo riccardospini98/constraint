@@ -1,0 +1,12 @@
+{
+    "openFiles": [
+        "nqueens_alldiff.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "nqueens_alldiff.mzn",
+        "solver_conf.mpc"
+    ],
+    "selectedSolverConfigFile": "solver_conf.mpc",
+    "version": 106
+}

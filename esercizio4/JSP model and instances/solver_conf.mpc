@@ -1,0 +1,7 @@
+{
+    "intermediate-solutions": true,
+    "output-objective": true,
+    "parallel": 7,
+    "solver": "org.gecode.gecode@6.3.0",
+    "time-limit": 300000
+}

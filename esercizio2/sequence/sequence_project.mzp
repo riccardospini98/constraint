@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "sequence.mzn",
+        "sequence_i.mzn",
+        "sequence_global.mzn",
+        "sequence_i_global.mzn"
+    ],
+    "openTab": 2,
+    "projectFiles": [
+        "sequence.mzn",
+        "sequence_global.mzn",
+        "sequence_i.mzn",
+        "sequence_i_global.mzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}
